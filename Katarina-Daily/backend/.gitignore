@@ -1,0 +1,25 @@
+# Environment
+.env
+.env.local
+
+# Go
+bin/
+*.exe
+*.test
+*.out
+vendor/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+
+# Testing & Coverage
+coverage.out
+coverage.html
+*.cover
+
+*.tsbuildinfo
